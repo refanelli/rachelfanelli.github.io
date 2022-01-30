@@ -1,0 +1,183 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+
+<p>&nbsp;</p>  
+### **EDUCATION**
+#### **Master of Science in Biology** (2021)                
+##### Queen's University, Kingston, Ontario, Canada 
+##### Advised by Drs. Fran Bonier and Paul Martin                                   
+#### **Bachelor of Science in Biology** (2016)              
+##### University of Wyoming, Laramie, Wyoming, USA     
+#### **Associate of Science** (2013)                        
+##### Laramie County Community College, Cheyenne, Wyoming, USA 
+<p>&nbsp;</p>
+### **PUBLICATIONS**
+##### **Fanelli, R.E.**, P.R. Martin, O.J. Robinson, and F. Bonier. Species-level responses to urban habitat in North American birds. *in prep*.
+##### Munim, S., **R.E. Fanelli**, and P.R. Martin. 2021. A male Field Sparrow paired with a female Clay-colored Sparrow in southeastern Ontario. *Ontario Birds* 32:2-14
+##### Jacob J., M. Kent, S. Benson-Amram, S. Herculano-Houzel, M.A. Raghanti, E. Ploppert, J. Drake, B. Hindi, N.R. Natale, S. Daniels, **R. Fanelli**, A. Miller, T. Landis, A. Gilbert, S. Johnson, A. Lai, M. Hyer, A. Rzucidlo, C. Anchor, S. Gehrt, and K. Lambert. 2021. Cytoarchitectural Characteristics Associated with Cognitive Flexibility in Raccoons. *Journal of Comparative Neurology* 529:3375-3388.
+##### Daniels, S.E., **R.E. Fanelli**, A. Gilbert, and S. Benson-Amram. 2019. Behavioral flexibility of a generalist carnivore. *Animal Cognition* 22: 387-396.
+<p>&nbsp;</p>
+### **RESEARCH PRESENTATIONS**
+##### **Fanelli, R.E.**, P.R. Martin, and F. Bonier. "Quantifying species-level responses to urban habitat in North American birds". Society for Integrative and Comparative Biology. Virtual (SICB+). Jan-March 2022. *Oral Presentation*.
+##### **Fanelli, R.E.**, P.R. Martin, and F. Bonier. "Quantifying species-level responses to urbanization in birds". Canadian Society for Ecology and Evolution. Virtual. 16-20 August 2021. *Oral Presentation*.
+##### **Fanelli, R.E.**, L. Stanton, D.B. McDonald, and S. Benson-Amram. "Raccoon Association Patterns and the Potential for Information Transmission." The Wildlife Society- Wyoming Chapter Conference. Jackson, WY. 5-7 December 2017. *Oral Presentation*. 
+##### **Fanelli, R.E.**, L. Stanton, D.B. McDonald, and S. Benson-Amram. "Raccoon Social Networks and Information Transmission." Animal Behavior Society Annual Conference. Toronto, Canada. 12-16 June 2017. *Poster Presentation*. 
+##### **Fanelli, R.E.**, and S. Benson-Amram. "Learning about a local wildlife species with the University of Wyoming Raccoon Project." Wyoming Citizen Science Conference. Lander, WY. 1 December 2016. *Poster Presentation*. 
+##### **Fanelli, R.E.** and L.A. Stanton. "Community outreach with the University of Wyoming Raccoon Project." Laramie Audubon Society Conference. Laramie, WY. 26 October 2016. *Oral Presentation*.
+##### **Fanelli, R.E.**, S.E. Daniels, A. Gilbert, and S. Benson-Amram. "Neophobic responses and problem-solving abilities of raccoons (*Procyon lotor*) in captivity." Animal Behavior Society Annual Conference, Genesis Poster Competition. Columbia, MO. 30 July-3 August 2016. *Poster Presentation*.
+##### **Fanelli, R.E.**, S.E. Daniels, and S. Benson-Amram. "An empirical analysis of the neophobic responses of captive raccoons (*Procyon lotor*) during a problem-solving task." University of Wyoming Undergraduate Research Day. Laramie, WY. 30 April 2016. *Oral Presentation*. 
+##### **Fanelli, R.E.** and S. Benson-Amram. "Personality and association patterns among individuals: two metrics for analyzing the innovation and spread of novel traits in a captive group of common starlings (*Sturnus vulgaris*)." University of Wyoming Undergraduate Research Day. Laramie, WY. 2 May 2015. *Oral Presentation*.
+
+<p>&nbsp;</p>
+
+### **RESEARCH & WORK EXPERIENCE**
+#### **Research Assistant** in Bonier Lab at Queen's University. Kingston, ON. 
+##### Principal Investigator: Dr. Fran Bonier
+##### Jan - Mar 2022
+- ##### Compiled avian biological, life history, and behavioral data for species of North American birds 
+- ##### Processed fine-scale temperature and precipitation data in ArcGIS to create range-wide estimates of climatic breadth for avian species
+
+#### **Master's Thesis Research** in Bonier Lab at Queen's University. Kingston, ON. 
+##### May 2019 - Dec 2021
+- ##### [MSc Thesis: Quantifying species-level responses to urbanization in North American Birds](https://qspace.library.queensu.ca/bitstream/handle/1974/29852/Fanelli_Rachel_E_202112_MSc.pdf?sequence=6&isAllowed=y)
+- ##### Used remote sensing data and fine-scale range-wide relative abundance estimates to quantify the urban tolerance of species using ArcGIS and R
+- ##### Captured songbirds using mist nets and Potter traps to band birds, take morphological measurements, and blood samples 
+- ##### Used playback calls to survey sites for birds 
+- ##### Conducted vegetation surveys at bird capture sites 
+
+#### **Project Manager** for the University of Wyoming Raccoon Project. Laramie, WY. 
+##### Principal Investigator: Dr. Sarah Benson-Amram
+##### Jul 2016 - Mar 2019 
+- ##### Used live traps to capture wild raccoons and striped skunks; collected biological samples from animals (e.g., blood, fecal, hair) and processed/stored samples for diet, disease, and genetic analyses
+- ##### Tracked VHF radio-collared raccoons 
+- ##### Operated RFID data loggers and maintained trail cameras to monitor wildlife activity 
+- ##### Applied for university and state research permits and obtained permission from property owners to collect data on private property  
+- ##### Trained undergraduate students to safely trap, handle, and track wild raccoons and skunks and oversaw independent undergraduate research projects
+- ##### Created a lab manual with information on processing and marking wild raccoons and skunks, processing and storing biological samples, and ordering supplies 
+- ##### Organized and participated in educational and community outreach events to generate interest in local wildlife and to obtain permission to trap on private property
+
+#### **Lab Technician** for the Wyoming Game and Fish Department Wildlife Health Laboratory. Laramie, WY. 
+##### Supervisors: Jessica Jennings-Gaines and Hank Edwards
+##### Oct - Mar 2018
+- ##### Tested ungulate tissue samples for chronic wasting disease (CWD) using ELISA (enzyme-linked immunosorbent analysis)
+- ##### Organized and modified CWD records and ELISA test results collected over 20 years and confirmed sample locations using All Topo Maps
+- ##### Assisted with wildlife captures of bighorn sheep and elk and collected and prepared biological samples from animals for state-wide health surveys
+- ##### Created agars and liquid media for testing bighorn sheep, elk, and deer biological samples for the presence of pathogenic bacterial colonies
+
+#### **Field Assistant** for a research project on avian malaria in Grand Teton National Park, WY. 
+##### Principal Investigator: Dr. Matt Carling of the University of Wyoming. 
+##### Jun 2018
+- ##### Used mist nets to capture Dark-eyed Juncos; collected blood samples from birds for microbial assays and used a respirometer chamber to measure resting and summit metabolic rates 
+
+#### **Undergraduate Research Assistant** for the University of Wyoming Raccoon Project (UWRP). Laramie, WY. 
+##### Principal Investigator: Dr. Sarah Benson-Amram
+##### Jun 2014 -Jun 2016
+- ##### Assessed the problem-solving abilites, learning, and behavioral flexibility of raccoons by presenting individuals with a novel foraging devise (i.e., puzzle box) in captivity
+- ##### Reviewed video footage of raccoons from the puzzle box experiment and coded behaviors using an ethogram
+- ##### Analyzed the relationship between neophobia and problem-solving abilities of raccoons that were presented with a puzzle box in captivity 
+- ##### Reviewed video footage of European Starlings in captivity during exploratory tasks and coded behaviors for analyses 
+
+#### **Field Assistant** for a research project on the mating behavior of Golden-winged Manakins in the Mindo Cloud Forest (Milpe Bird Sanctuary), Pichincha, Ecuador. 
+##### Principal Investigator: Dr. David B. McDonald of the University of Wyoming. 
+##### Jan 2016
+- ##### Captured Golden-winged Manakins using mist nets and conducted behavioral observations at lek sites to identify banded manakins during courtship displays
+
+<p>&nbsp;</p>  
+
+### **RELEVANT TRAINING & ANALYTICAL SKILLS**
+- ##### Completed Wyoming Game and Fish Department wildlife capture and chemical immobilization course in May 2018
+- ##### Proficient in R, ArcGIS, ERDAS Image, Microsoft Suite (Word, Excel, PowerPoint, Outlook)
+
+<p>&nbsp;</p>  
+
+### **TEACHING EXPERIENCE**
+##### **Teaching Assistant for Evolutionary Medicine - BIOL442** (Winter 2021 Term)
+##### Queen's University. Instructor: Dr. Fran Bonier
+- ##### Assisted students design impactful science communication projects on current topics in evolutionary medicine using various mediums (e.g., PowerPoint, YouTube, brochures, computer games, etc.) and marked student projects 
+
+##### **Teaching Assistant for Animal Behaviour- BIOL321** (Summer 2021 Term)
+##### Queen's University. Instructor: Dr. Laura Nagel
+- ##### Assisted students design independent animal behavior research projects and marked student projects 
+
+##### **Teaching Assistant for Ecology- BIOL300** (Fall 2019 and 2020 Terms)
+##### Queen's University. Instructor: Dr. Paul R. Martin
+- ##### Invited guest speaker for a lecture on methods in field ecology  
+- ##### Attended weekly lectures, answered student questions, graded student quizzes, and lectured for labs on identifying birds, insects, and fish 
+- ##### Co-instructed lessons on bird identification and burying beetle ecology at Queen's University Biological Field Station 
+- ##### Monitored course email, responded to student questions, marked and entered student quiz grades 
+
+##### **Teaching Assistant for Ecology- BIOL103** (Winter 2020 Term)
+##### Queen's University. Lab Coordinator: Dr. Laura Nagel
+- ##### Monitored course email and responded to student questions 
+
+##### **Principles of Animal Behavior- ZOO3600** (Spring 2017 semester)
+##### University of Wyoming. Instructor: Sarah Daniels (MS)
+- ##### Invited guest speaker for a lecture on social learning in animal.  
+
+##### **Urbanization and Biodiversity- BIOL535** (Winter 2022 semester)
+##### Queen's University. Instructor: Dr. Fran Bonier
+- ##### Invited guest speaker for a lecture on methods for quantifying species responses to urban habitat. 
+
+##### **Tutor for Principals of Animal Behavior** (Spring 2016 semester)
+##### University of Wyoming 
+- ##### Held weekly meetings with an undergraduate student to review and study material presented in class lectures
+
+##### **Mentor for BIOL537 Student** (Fall 2021-Winter 2022)
+- ##### Mentored an undergraduate student and assisted with data collection for their honors thesis research project
+
+
+<p>&nbsp;</p>
+
+### **GRANTS, FELLOWSHIPS, & SCHOLARSHIPS**
+- ##### **Research Travel Grant**. Wyoming NASA Space Grant Consortium (2016)
+
+- ##### **Research outreach grant**. Laramie Audubon Society (2016)
+
+- ##### **Academic scholarship**. Fredrick E. Clements Scholarship in Ecology (2016)
+
+- ##### **Research fellowship**. National Science Foundation Experimental Program to Stimulate Competitive Original Resarch (EPSCoR) Fellowship (2015-2016). Research Project: *Analyzing the neophobic responses of captive raccoons* (Procyon lotor) *during a novel problem-solving task*.
+
+- ##### **Academic scholarship**. William Gill Scholarship	(2015-2016)
+
+- ##### **Study-abroad scholarship**. International Programs Scholarship (2015) 
+
+- ##### **Academic scholarship**. Academic scholarship, Richardson Family Trust	(2014-2016)
+
+- ##### **Study-abroad grant**. Dick and Lynn Cheney Study Abroad Grant (2014)
+
+- ##### **Research fellowship**. National Science Foundation Experimental Program to Stimulate Competitive Original Resarch (EPSCoR) Fellowship (2014). Research Project: *Social Network Analysis of a Captive Population of Common Starlings* (Sturnus vulgaris).
+
+- ##### **Academic scholarship**. Wyoming Hathaway Scholarship (2009-2014)
+
+- ##### **Academic scholarship**. Wyoming Golden Eagles Scholarship (2009-2011)
+
+&nbsp;
+
+***
+
+<!--Add footer to webpage-->
+&nbsp;
+<p style="text-align: center; font-size:10pt;">Page created by <a href="https://github.com/refanelli/">Rachel E. Fanelli</a></p>
+<p style="text-align: center; font-size:10pt;"><span style="color: #808080;"><em>rachel.fanelli.ref@gmail.com</em></span></p>
+</p>
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Add academicons library -->
+<link rel="stylesheet"  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<!-- Add font awesome icons -->
+
+<p style="text-align: center;">
+    <a href="https://github.com/refanelli/" class="fa fa-github"></a>
+    <a href="https://www.researchgate.net/profile/Rachel-Fanelli/" i class="ai ai-researchgate ai-1x"></a>
+    <a href="https://scholar.google.ca/citations?hl=en&pli=1&user=OD83RKEAAAAJ/" i class="ai ai-google-scholar ai-1x"></a>
+    <a href="https://osf.io/cz2uw/" i class="ai ai-osf ai-1x"></a>
+    <a href="https://orcid.org/0000-0002-6698-7843/" i class="ai ai-orcid ai-1x"></a>
+</p>
+
+&nbsp;

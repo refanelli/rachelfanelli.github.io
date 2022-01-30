@@ -1,0 +1,14 @@
+output_dir: "."
+navbar:
+  left:
+    - text: "Rachel E. Fanelli"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "CV"
+      href: cv.html
+    - text: "Outreach"
+      href: outreach.html
+  right:
+    - text: "Contact"
+      href: contact.html

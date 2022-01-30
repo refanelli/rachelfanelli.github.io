@@ -1,0 +1,15 @@
+---
+output: 
+  html_document:
+    theme: yeti
+---
+<p>&nbsp;</p>
+### **RESEARCH INTERESTS**
+
+#### **Avian biodiversity in urban habitats**
+##### I used novel methods to quantify species-level tolerance to urban habitat in North American birds using eBird Status and Trends data and geospatial urban landscape datasets. These methods allowed me to develop a continuous estimate that capture species' tolerance to urban habitat across their breeding ranges in the United States and Canada for 432 species. I assessed the relative contribution of phylogeny on the continuous urban tolerance estimate and detected a phylogenetic signal that was distributed across the phylogeny and across the full range of urban tolerance estimates.
+##### This research was a collaboration with Drs Fran Bonier and Paul Martin for my Master's Thesis research. 
+[ ![](images/phylogeny_urban_responses_REFanelli.jpeg) ](images/phylogeny_urban_responses_REFanelli.jpeg)
+
+###### Phylogenetic tree of 432 species with urban tolerance estimates. High values indicate a greater tolerance of urban habitats (red), and low values indicate avoidance of urban habitats (blue). The continuous urban tolerance estimate is illustrated across 11 levels to facilitate visualization. The presence of a grey bar indicates species that contributed to the phylogenetic signal that was detected.
+
