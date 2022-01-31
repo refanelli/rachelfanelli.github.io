@@ -11,7 +11,7 @@ output:
 ##### This research was a collaboration with Drs Fran Bonier and Paul Martin for my Master's Thesis research. 
 [ ![](images/phylogeny_urban_responses_REFanelli.jpeg) ](images/phylogeny_urban_responses_REFanelli.jpeg)
 
-###### Phylogenetic tree of 432 species with urban tolerance estimates. High values indicate a greater tolerance of urban habitats (red), and low values indicate avoidance of urban habitats (blue). The continuous urban tolerance estimate is illustrated across 11 levels to facilitate visualization. The presence of a grey bar indicates species that contributed to the phylogenetic signal that was detected.
+###### Phylogenetic tree of 432 species with urban tolerance estimates. High values indicate a greater tolerance of urban habitats (red), and low values indicate avoidance of urban habitats (blue). The continuous urban tolerance estimate is illustrated across 11 levels to facilitate visualization. The presence of a grey bar indicates species that contributed to the phylogenetic signal that was detected. (click on image to enlarge)
 
 &nbsp;
 
@@ -34,9 +34,9 @@ output:
 <p style="text-align: center;">
     <a href="https://github.com/refanelli/" class="fa fa-github"></a>
     <a href="https://www.researchgate.net/profile/Rachel-Fanelli/" i class="ai ai-researchgate ai-1x"></a>
-    <a href="https://scholar.google.com/citations?hl=en&user=OD83RKEAAAAJ/" i class="ai ai-google-scholar ai-1x"></a>
+    <a href="https://scholar.google.com/citations?hl=en&user=OD83RKEAAAAJ" i class="ai ai-google-scholar ai-1x"></a>
     <a href="https://osf.io/cz2uw/" i class="ai ai-osf ai-1x"></a>
-    <a href="https://orcid.org/0000-0002-6698-7843/" i class="ai ai-orcid ai-1x"></a>
+    <a href="https://orcid.org/0000-0002-6698-7843" i class="ai ai-orcid ai-1x"></a>
 </p>
 
 &nbsp;
