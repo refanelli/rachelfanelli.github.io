@@ -20,7 +20,7 @@ output:
 - ##### Izaak Walton League- Laramie Chapter (20-April-2017)
 
 ***
-|Thursday Local Farmer's Market|Radio Telemetry at UW Women in STEM Event|Talking about raccoons with a library youth group|
+|Thursday Local Farmer's Market|Radio Telemetry at UW Women in STEM Event|Raccoon presentation with a library youth group|
 |:-:|:-:|:-:|
 |![Thursday Local Farmer's Market](images/ThursdayFarmersMarket.JPG){width=250px}|![Radio Telemetry at UW Women in STEM Event](images/WomenInStemEvent052016.png){width=270px}|![Chatting about raccoons at the library](images/Presentation_YAK.JPG){width=250px}|
 ***

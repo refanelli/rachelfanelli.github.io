@@ -46,6 +46,7 @@ output:
 - ##### Used remote sensing data and fine-scale range-wide relative abundance estimates to quantify the urban tolerance of species using ArcGIS and R
 - ##### Captured songbirds using mist nets and Potter traps to band birds, take morphological measurements, and blood samples 
 - ##### Used playback calls to survey sites for birds 
+- ##### Conducted nest searches for ground-nesting and shrub-nesting species and monitored nests until birds fledged 
 - ##### Conducted vegetation surveys at bird capture sites 
 
 #### **Project Manager** for the University of Wyoming Raccoon Project. Laramie, WY. 
@@ -54,7 +55,7 @@ output:
 - ##### Used live traps to capture wild raccoons and striped skunks; collected biological samples from animals (e.g., blood, fecal, hair) and processed/stored samples for diet, disease, and genetic analyses
 - ##### Tracked VHF radio-collared raccoons 
 - ##### Operated RFID data loggers and maintained trail cameras to monitor wildlife activity 
-- ##### Applied for university and state research permits and obtained permission from property owners to collect data on private property  
+- ##### Wrote applications and applied for university and state research permits and obtained permission from property owners to collect data on private property  
 - ##### Trained undergraduate students to safely trap, handle, and track wild raccoons and skunks and oversaw independent undergraduate research projects
 - ##### Created a lab manual with information on processing and marking wild raccoons and skunks, processing and storing biological samples, and ordering supplies 
 - ##### Organized and participated in educational and community outreach events to generate interest in local wildlife and to obtain permission to trap on private property
