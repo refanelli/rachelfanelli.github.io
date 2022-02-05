@@ -35,7 +35,6 @@ output:
 
 ### **RESEARCH & WORK EXPERIENCE**
 #### **Research Assistant** in Bonier Lab at Queen's University. Kingston, ON. 
-##### Principal Investigator: Dr. Fran Bonier
 ##### Jan - Mar 2022
 - ##### Compiled avian biological, life history, and behavioral data for species of North American birds 
 - ##### Processed fine-scale temperature and precipitation data in ArcGIS to create range-wide estimates of climatic breadth for avian species
