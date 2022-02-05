@@ -50,7 +50,6 @@ output:
 - ##### Conducted vegetation surveys at bird capture sites 
 
 #### **Project Manager** for the University of Wyoming Raccoon Project. Laramie, WY. 
-##### Principal Investigator: Dr. Sarah Benson-Amram
 ##### Jul 2016 - Mar 2019 
 - ##### Used live traps to capture wild raccoons and striped skunks; collected biological samples from animals (e.g., blood, fecal, hair) and processed/stored samples for diet, disease, and genetic analyses
 - ##### Tracked VHF radio-collared raccoons 
@@ -61,7 +60,6 @@ output:
 - ##### Organized and participated in educational and community outreach events to generate interest in local wildlife and to obtain permission to trap on private property
 
 #### **Lab Technician** for the Wyoming Game and Fish Department Wildlife Health Laboratory. Laramie, WY. 
-##### Supervisors: Jessica Jennings-Gaines and Hank Edwards
 ##### Oct - Mar 2018
 - ##### Tested ungulate tissue samples for chronic wasting disease (CWD) using ELISA (enzyme-linked immunosorbent analysis)
 - ##### Organized and modified CWD records and ELISA test results collected over 20 years and confirmed sample locations using All Topo Maps
@@ -69,12 +67,10 @@ output:
 - ##### Created agars and liquid media for testing bighorn sheep, elk, and deer biological samples for the presence of pathogenic bacterial colonies
 
 #### **Field Assistant** for a research project on avian malaria in Grand Teton National Park, WY. 
-##### Principal Investigator: Dr. Matt Carling of the University of Wyoming. 
 ##### Jun 2018
 - ##### Used mist nets to capture Dark-eyed Juncos; collected blood samples from birds for microbial assays and used a respirometer chamber to measure resting and summit metabolic rates 
 
 #### **Undergraduate Research Assistant** for the University of Wyoming Raccoon Project (UWRP). Laramie, WY. 
-##### Principal Investigator: Dr. Sarah Benson-Amram
 ##### Jun 2014 -Jun 2016
 - ##### Assessed the problem-solving abilites, learning, and behavioral flexibility of raccoons by presenting individuals with a novel foraging devise (i.e., puzzle box) in captivity
 - ##### Reviewed video footage of raccoons from the puzzle box experiment and coded behaviors using an ethogram
@@ -82,7 +78,6 @@ output:
 - ##### Reviewed video footage of European Starlings in captivity during exploratory tasks and coded behaviors for analyses 
 
 #### **Field Assistant** for a research project on the mating behavior of Golden-winged Manakins in the Mindo Cloud Forest (Milpe Bird Sanctuary), Pichincha, Ecuador. 
-##### Principal Investigator: Dr. David B. McDonald of the University of Wyoming. 
 ##### Jan 2016
 - ##### Captured Golden-winged Manakins using mist nets and conducted behavioral observations at lek sites to identify banded manakins during courtship displays
 
@@ -96,38 +91,37 @@ output:
 
 ### **TEACHING EXPERIENCE**
 ##### **Teaching Assistant for Evolutionary Medicine - BIOL442** (Winter 2021 Term)
-##### Queen's University. Instructor: Dr. Fran Bonier
 - ##### Assisted students design impactful science communication projects on current topics in evolutionary medicine using various mediums (e.g., PowerPoint, YouTube, brochures, computer games, etc.) and marked student projects 
 
 ##### **Teaching Assistant for Animal Behaviour- BIOL321** (Summer 2021 Term)
-##### Queen's University. Instructor: Dr. Laura Nagel
 - ##### Assisted students design independent animal behavior research projects and marked student projects 
 
 ##### **Teaching Assistant for Ecology- BIOL300** (Fall 2019 and 2020 Terms)
-##### Queen's University. Instructor: Dr. Paul R. Martin
 - ##### Invited guest speaker for a lecture on methods in field ecology  
 - ##### Attended weekly lectures, answered student questions, graded student quizzes, and lectured for labs on identifying birds, insects, and fish 
 - ##### Co-instructed lessons on bird identification and burying beetle ecology at Queen's University Biological Field Station 
 - ##### Monitored course email, responded to student questions, marked and entered student quiz grades 
 
 ##### **Teaching Assistant for Ecology- BIOL103** (Winter 2020 Term)
-##### Queen's University. Lab Coordinator: Dr. Laura Nagel
 - ##### Monitored course email and responded to student questions 
 
 ##### **Principles of Animal Behavior- ZOO3600** (Spring 2017 semester)
-##### University of Wyoming. Instructor: Sarah Daniels (MS)
 - ##### Invited guest speaker for a lecture on social learning in animal.  
 
 ##### **Urbanization and Biodiversity- BIOL535** (Winter 2022 semester)
-##### Queen's University. Instructor: Dr. Fran Bonier
 - ##### Invited guest speaker for a lecture on methods for quantifying species responses to urban habitat. 
+
+##### **Mentor for BIOL537 Student** (Fall 2021-Winter 2022)
+- ##### Mentored an undergraduate student and assisted with data collection for their honors thesis research project
 
 ##### **Tutor for Principals of Animal Behavior** (Spring 2016 semester)
 ##### University of Wyoming 
 - ##### Held weekly meetings with an undergraduate student to review and study material presented in class lectures
 
-##### **Mentor for BIOL537 Student** (Fall 2021-Winter 2022)
-- ##### Mentored an undergraduate student and assisted with data collection for their honors thesis research project
+##### **Undergraduate Teaching Assistant** (Spring 2015 semester)
+##### Animal Biology at University of Wyoming
+- ##### Assisted a graduate student TA prepare experiments for weekly lab sections
+- ##### Attended lab sections and assisted students and answered questions during labs
 
 
 <p>&nbsp;</p>
