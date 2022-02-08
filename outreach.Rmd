@@ -1,8 +1,15 @@
 ---
+title: "Outreach"
 output: 
   html_document:
     theme: yeti
 ---
+<style>
+  .title{
+    display: none;
+  }
+</style>
+
 <p>&nbsp;</p>  
 ### **OUTREACH**
 #### Co-presented lesson plans on animal behavior and cognition and led hands-on activities for students in grades ranging from pre-school to high school:

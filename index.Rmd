@@ -1,10 +1,17 @@
 ---
-title: <center>**Rachel E. Fanelli**</center>
+title: "Rachel Fanelli"
 output: 
   html_document:
     theme: yeti
 ---
+<style>
+  .title{
+    display: none;
+  }
+</style>
+
 &nbsp;
+<center> ##**Rachel E. Fanelli**</center>
 <center> ### Wildlife Researcher | Data Analyst 
 &nbsp;
 

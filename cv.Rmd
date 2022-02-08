@@ -1,9 +1,14 @@
 ---
-title: <center>**Rachel's CV**</center>
+title: "CV"
 output: 
   html_document:
     theme: yeti
 ---
+<style>
+  .title{
+    display: none;
+  }
+</style>
 
 <p>&nbsp;</p>  
 ### **EDUCATION**

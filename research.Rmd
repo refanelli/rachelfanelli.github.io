@@ -1,8 +1,15 @@
 ---
+title: "Research"
 output: 
   html_document:
     theme: yeti
 ---
+<style>
+  .title{
+    display: none;
+  }
+</style>
+
 <p>&nbsp;</p>
 ### **RESEARCH INTERESTS**
 

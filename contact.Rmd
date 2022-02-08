@@ -1,8 +1,14 @@
 ---
+title: "Contact"
 output:
   html_document:
     theme: yeti
 ---
+<style>
+  .title{
+    display: none;
+  }
+</style>
 
 <br>
 <center>

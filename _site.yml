@@ -3,13 +3,17 @@ navbar:
   left:
     - text: "Rachel E. Fanelli"
       href: index.html
+      title: "Rachel Fanelli"
     - text: "Research"
       href: research.html
+      title: "Research"
     - text: "CV"
       href: cv.html
+      title: "CV"
     - text: "Outreach"
       href: outreach.html
+      title: "Outreach"
   right:
     - text: "Contact"
       href: contact.html
-      
+      title: "Contact"
