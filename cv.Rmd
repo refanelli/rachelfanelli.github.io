@@ -1,5 +1,5 @@
 ---
-title: <center>[**Rachel's CV**](https://github.com/refanelli/rachelfanelli.github.io/blob/main/Rachel-Fanelli_CV.pdf)</center>
+title: <center>**Rachel's CV**</center>
 output: 
   html_document:
     theme: yeti
