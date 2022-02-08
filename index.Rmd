@@ -11,7 +11,7 @@ output:
 </style>
 
 &nbsp;
-<center> ##**Rachel E. Fanelli**</center>
+<center> ##**Rachel E. Fanelli** 
 <center> ### Wildlife Researcher | Data Analyst 
 &nbsp;
 
