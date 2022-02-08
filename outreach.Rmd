@@ -1,5 +1,5 @@
 ---
-title: "Outreach"
+title: "Rachel's outreach activities"
 output: 
   html_document:
     theme: yeti

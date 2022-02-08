@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Rachel's CV"
 output: 
   html_document:
     theme: yeti
@@ -66,10 +66,13 @@ output:
   
 #### **Lab Technician** for the Wyoming Game and Fish Department Wildlife Health Laboratory. Laramie, WY. 
 ##### Oct 2017 - Mar 2018
-- ##### Tested ungulate tissue samples for chronic wasting disease (CWD) using ELISA (enzyme-linked immunosorbent analysis)
-- ##### Organized and modified CWD records and ELISA test results collected over 20 years and confirmed sample locations using All Topo Maps
-- ##### Assisted with wildlife captures of bighorn sheep and elk and collected and prepared biological samples from animals for state-wide health surveys
+- ##### Processed hunter-harvested ungulate tissue samples (lymph node and obex) using scales and ribolyzers before using an ELISA (enzyme-linked immunosorbent analysis) to test samples for the presence of chronic wasting disease (CWD) prion proteins 
+- ##### Reported results from ELISA tests to a state database where hunters could check the results from their samples and to provide the public with an updated map of CWD cases across the state
+- ##### Used mapping software to assign coordinate data to every harvested sample that was processed for CWD before uploading test results to the state's database
+- Assisted with wildlife captures of large ungulates and collected and prepared biological samples from animals for state-wide health surveys
 - ##### Created agars and liquid media for testing bighorn sheep, elk, and deer biological samples for the presence of pathogenic bacterial colonies
+- ##### Processed blood samples using centrifuges to separate plasma from whole blood for downstream brucellosis testing
+- ##### Followed standard operating procedures for running a variety of assays and to safely work in a BSL-2 lab
   
 #### **Field Assistant** for a research project on avian malaria in Grand Teton National Park, WY. 
 ##### Jun 2018
