@@ -12,11 +12,10 @@ output:
 
 &nbsp;
 <center> ## **Rachel E. Fanelli** 
-<center> ### Wildlife Researcher | Data Analyst 
+<center> ### Laboratory Technician | Wildlife Researcher | Data Analyst 
 &nbsp;
 
 <center>![Strouss Hill, Albany County, Wyoming. Photo Credit: Rachel E. Fanelli](images/strousshill_albany_co_WY.PNG){width=5000px}
-<center>Strouss Hill, Albany County, Wyoming. Photo Credit: Rachel E. Fanelli
 
 
 <!--Add footer to webpage-->
