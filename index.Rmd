@@ -13,7 +13,7 @@ output:
 &nbsp;
 <center> ## **Rachel E. Fanelli**
 &nbsp;
-<center>![](images/strouss_hill_WY.JPG){width=5000px}
+<center>![](images/strouss_hill_WY.jpg){width=1000px}
 &nbsp;
 
 Growing up in a family that cherished time spent in the mountains and prairies of Wyoming, I was constantly surrounded by wildlife, thermal springs, and breathtaking skies. This close connection with nature sparked a deep fascination with ecology that has only grown over time, fueling my pursuit of a career as a research scientist. Explore my research page to discover the projects that I've contributed to and learn more about my ongoing PhD research. 
