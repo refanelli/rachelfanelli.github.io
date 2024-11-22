@@ -13,6 +13,12 @@ output:
 <p>&nbsp;</p>
 ### **RESEARCH INTERESTS**
 
+#### **Environmental drivers of torpor in a facultative hibernator** (PhD Research)
+Hibernation is a series of torpor bouts punctuated by interbout arousals (IBA) during which animals rewarm and increase their metabolism. Notably, the frequency, duration, and temperature of these torpor-arousal cycles vary by individual, yet the factors controlling such variation remain poorly understood, as does the precise relationship between torpor pattern and overwinter weight loss (a key predictor of survival). For my PhD research, I will test the interactive effects of hibernaculum temperature (Ta) and food availability on the torpor patterns of wild-caught least chipmunks (*Neotamias minimus*) using a full factorial experimental design in semi-natural enclosures. I hypothesize (1) that both ambient temperature and food quantity/quality will affect torpor pattern, and (2) that torpor pattern will affect overwinter weight loss. 
+
+![](images/factorial_design.png)
+
+
 #### **Avian biodiversity in urban habitats**
 ##### I used novel methods to quantify species-level tolerance to urban habitat in North American birds using eBird Status and Trends data and geospatial urban landscape datasets. These methods allowed me to develop a continuous estimate that captures species' tolerance to urban habitat across their breeding ranges in the United States and Canada for 432 species. 
 
