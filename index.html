@@ -13,7 +13,7 @@
 
 <title>Rachel E. Fanelli</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -281,17 +282,18 @@ $(document).ready(function () {
 <center>
 <div id="rachel-e.-fanelli" class="section level2">
 <h2><strong>Rachel E. Fanelli</strong></h2>
+ 
 <center>
-<div id="laboratory-technician-wildlife-researcher-data-analyst"
-class="section level3">
-<h3>Laboratory Technician | Wildlife Researcher | Data Analyst</h3>
-<p> </p>
-<center>
-<div class="figure">
-<img src="images/strousshill_albany_co_WY.png" width="5000" alt="" />
-<p class="caption">Strouss Hill, Albany County, Wyoming. Photo Credit:
-Rachel E. Fanelli</p>
-</div>
+<p><img src="images/strousshill_albany_co_WY.PNG" width="5000"
+alt="Strouss Hill, Albany County, Wyoming. Photo Credit: Rachel E. Fanelli" />
+ </p>
+<p>Growing up in a family that cherished time spent in the mountains and
+prairies of Wyoming, I was constantly surrounded by wildlife, thermal
+springs, and breathtaking skies. This close connection with nature
+sparked a deep fascination with ecology that has only grown over time,
+fueling my pursuit of a career as a research scientist. Explore my
+research page to discover the projects that I’ve contributed to and
+learn more about my ongoing PhD research.</p>
 <!--Add footer to webpage-->
  
 <p style="text-align: center; font-size:10pt;">
@@ -317,7 +319,6 @@ class="email">rachel.fanelli.ref@gmail.com</a></em></span>
 <a href="https://orcid.org/0000-0002-6698-7843" i class="ai ai-orcid ai-1x"></a>
 </p>
 <p> </p>
-</div>
 </div>
 
 
