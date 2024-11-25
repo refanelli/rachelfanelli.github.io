@@ -22,12 +22,12 @@ Hibernation is a series of torpor bouts punctuated by interbout arousals (IBA) d
 #### **The effects of torpor on memory and learning** 
 Least chipmunks are scatter-hoarders that rely on spatial memory to retrieve food cached on the landscape, so the ability to form and recall memories post-hibernation is likely important for survival. To understand how torpor influences the brain at the molecular and structural level, we need a brain atlas. I am currently working with Drs Eric Quallen, Merav Ben-David, and Nicole Bedford to build a brain atlas for the least chipmunk. 
 
-![](images/atlas_landscape.JPG)
+![](images/atlas_landscape.JPG){width=3000px}
 
 #### **Avian biodiversity in urban habitats** (MSc research)
 ##### I used novel methods to quantify species-level tolerance to urban habitat in North American birds using eBird Status and Trends data and geospatial urban landscape datasets. These methods allowed me to develop a continuous estimate that captures species' tolerance to urban habitat across their breeding ranges in the United States and Canada for 432 species. 
 
-![](images/Histogram_and_test_spp.JPG)
+![](images/Histogram_and_test_spp.JPG){width=3000px}
 
 ###### Distribution of urban tolerance scores for 432 North American bird species spanning 19 orders and 60 families. The continuous urban tolerance estimate distinguished species known for their urban-tolerance or urban-avoidance quite well. Bar colors denote focal test species: urban (red, n=12), nonurban (blue, n=12), and all other species (grey, n=408). Test species were selected based on summaries available on the Birds of the World Database. The dashed line denotes the mean urban tolerance estimate.  
 
