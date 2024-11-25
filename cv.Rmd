@@ -12,6 +12,9 @@ output:
 
 <p>&nbsp;</p>  
 ### **EDUCATION**
+#### **PhD in Ecology and Evolution** (Current PhD Student)
+##### University of Wyoming, Laramie, Wyoming, USA
+##### Advised by Dr. Nicole Bedford
 #### **Master of Science in Biology** (2021)                
 ##### Queen's University, Kingston, Ontario, Canada 
 ##### Advised by Drs. Fran Bonier and Paul Martin                                   
@@ -21,12 +24,15 @@ output:
 ##### Laramie County Community College, Cheyenne, Wyoming, USA 
 <p>&nbsp;</p>
 ### **PUBLICATIONS**
+##### Stanton, L.A., Cooley, C.A., Davis, E.C., **Fanelli, R.E.**, Benson-Amram, S. Wild raccoons demonstrate flexibility and individuality in innovative problem solving. Proceedings of the Royal Society B: Biological Sciences 291, 20240911.
+##### Petrenko, J.A., Martin P.R., **Fanelli R.E.**, Bonier F. Urban tolerance does not protect against population decline in North American birds. 2024. Biology Letters 20.1.
 ##### **Fanelli, R.E.**, P.R. Martin, O.J. Robinson, and F. Bonier. 2022. Estimates of species-level tolerance of urban habitat in North American birds. *Ecology* e3821. https://doi.org/10.1002/ecy.3821.
 ##### Munim, S., **R.E. Fanelli**, and P.R. Martin. 2021. A male Field Sparrow paired with a female Clay-colored Sparrow in southeastern Ontario. *Ontario Birds* 32:2-14
 ##### Jacob J., M. Kent, S. Benson-Amram, S. Herculano-Houzel, M.A. Raghanti, E. Ploppert, J. Drake, B. Hindi, N.R. Natale, S. Daniels, **R. Fanelli**, A. Miller, T. Landis, A. Gilbert, S. Johnson, A. Lai, M. Hyer, A. Rzucidlo, C. Anchor, S. Gehrt, and K. Lambert. 2021. Cytoarchitectural Characteristics Associated with Cognitive Flexibility in Raccoons. *Journal of Comparative Neurology* 529:3375-3388.
 ##### Daniels, S.E., **R.E. Fanelli**, A. Gilbert, and S. Benson-Amram. 2019. Behavioral flexibility of a generalist carnivore. *Animal Cognition* 22: 387-396.
 <p>&nbsp;</p>
 ### **RESEARCH PRESENTATIONS**
+##### **Fanelli, R.E.**, E. Quallen, M. Ben-David, N. Bedford. Hippocampal neuroanatomy and spatial memory pre-and post-torpor in the Least Chipmunk (*Neotamias minimus*). Animal Behavior Society Conference. Portland, Oregon. 2023. *Poster Presentation*
 ##### **Fanelli, R.E.**, P.R. Martin, and F. Bonier. "Quantifying species-level responses to urban habitat in North American birds". Society for Integrative and Comparative Biology. Virtual (SICB+). Jan-March 2022. *Oral Presentation*.
 ##### **Fanelli, R.E.**, P.R. Martin, and F. Bonier. "Quantifying species-level responses to urbanization in birds". Canadian Society for Ecology and Evolution. Virtual. 16-20 August 2021. *Oral Presentation*.
 ##### **Fanelli, R.E.**, L. Stanton, D.B. McDonald, and S. Benson-Amram. "Raccoon Association Patterns and the Potential for Information Transmission." The Wildlife Society- Wyoming Chapter Conference. Jackson, WY. 5-7 December 2017. *Oral Presentation*. 
@@ -130,33 +136,6 @@ output:
 ##### Animal Biology at University of Wyoming
 - ##### Assisted a graduate student TA prepare experiments for weekly lab sections for a semester-long undergraduate animal biology course
 - ##### Attended lab sections, weekly lab prep meetings, and assisted students and answered questions during labs
-  
-  
-  
-<p>&nbsp;</p>
-  
-### **GRANTS, FELLOWSHIPS, & SCHOLARSHIPS**
-- ##### **Research Travel Grant**. Wyoming NASA Space Grant Consortium (2016)
-  
-- ##### **Research outreach grant**. Laramie Audubon Society (2016)
-  
-- ##### **Academic scholarship**. Fredrick E. Clements Scholarship in Ecology (2016)
-  
-- ##### **Research fellowship**. National Science Foundation Experimental Program to Stimulate Competitive Original Resarch (EPSCoR) Fellowship (2015-2016). Research Project: *Analyzing the neophobic responses of captive raccoons* (Procyon lotor) *during a novel problem-solving task*.
-  
-- ##### **Academic scholarship**. William Gill Scholarship	(2015-2016)
-  
-- ##### **Study-abroad scholarship**. International Programs Scholarship (2015) 
-  
-- ##### **Academic scholarship**. Academic scholarship, Richardson Family Trust	(2014-2016)
-  
-- ##### **Study-abroad grant**. Dick and Lynn Cheney Study Abroad Grant (2014)
-  
-- ##### **Research fellowship**. National Science Foundation Experimental Program to Stimulate Competitive Original Resarch (EPSCoR) Fellowship (2014). Research Project: *Social Network Analysis of a Captive Population of Common Starlings* (Sturnus vulgaris).
-  
-- ##### **Academic scholarship**. Wyoming Hathaway Scholarship (2009-2014)
-  
-- ##### **Academic scholarship**. Wyoming Golden Eagles Scholarship (2009-2011)
   
 &nbsp;
 
