@@ -14,10 +14,10 @@ output:
 ### **EDUCATION**
 #### **PhD in Ecology and Evolution** (Current PhD Student)
 ##### University of Wyoming, Laramie, Wyoming, USA
-##### Advised by Dr. Nicole Bedford
+##### Advised by  <a href="https://thebedfordlab.com/">Dr. Nicole Bedford</a>
 #### **Master of Science in Biology** (2021)                
 ##### Queen's University, Kingston, Ontario, Canada 
-##### Advised by Drs. Fran Bonier and Paul Martin                                   
+##### Advised by Drs. <a href="https://www.bonierlab.com/">Fran Bonier</a> and <a href="https://www.paulmartinlab.com/">Paul Martin </a>        
 #### **Bachelor of Science in Biology** (2016)              
 ##### University of Wyoming, Laramie, Wyoming, USA     
 #### **Associate of Science** (2013)                        
