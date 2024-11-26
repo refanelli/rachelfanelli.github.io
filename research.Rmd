@@ -22,7 +22,7 @@ Hibernation is a series of torpor bouts punctuated by interbout arousals (IBA) d
 #### **The effects of torpor on memory and learning** 
 Least chipmunks are scatter-hoarders that rely on spatial memory to retrieve food cached on the landscape, so the ability to form and recall memories post-hibernation is likely important for survival. To understand how torpor influences the brain at the molecular and structural level, we need a brain atlas. I am currently working with Drs Eric Quallen, Merav Ben-David, and Nicole Bedford to build a brain atlas for the least chipmunk. 
 
-![](images/atlas_landscape.jpg){width=1000px}
+![](images/atlas_landscape.jpg)
 &nbsp;
 
 #### **Avian biodiversity in urban habitats** (MSc research)
